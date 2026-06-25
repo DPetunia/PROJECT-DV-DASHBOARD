@@ -6,7 +6,7 @@ from utils import load_data, render_sidebar_filters
 # PAGE CONFIG (only set once, here in the main entry file)
 # ----------------------------------------------------------------------------
 st.set_page_config(
-    page_title="Student Performance Analytics Dashboard",
+    page_title="Student Lifestyle Performance Dataset Dashboard",
     page_icon="📊",
     layout="wide",
     initial_sidebar_state="expanded"
