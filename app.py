@@ -21,7 +21,7 @@ filtered_df = render_sidebar_filters(df)
 # ----------------------------------------------------------------------------
 # HEADER
 # ----------------------------------------------------------------------------
-st.title("📊 University Student Performance Analytics")
+st.title("📊 Student Lifestyle Performance Dataset Dashboard")
 st.markdown(
     "Understanding the factors that influence academic performance, "
     "and where the university should focus its interventions. "
